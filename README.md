@@ -3,7 +3,7 @@ This is the project page of the dataset for the binary and multi-label classific
 
 
 ## Dataset
-To receive the dataset, kindly fill the form [here]{https://forms.gle/S1KNoR5U4TcTgb2Q9}
+To receive the dataset, kindly fill the form [here](https://forms.gle/S1KNoR5U4TcTgb2Q9)
 If you wish to contribute and improve the dataset, indicate your intent in the same form.
 
 ## Citation
